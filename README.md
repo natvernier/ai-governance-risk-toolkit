@@ -13,13 +13,14 @@ Policies are important, but teams also need practical templates, review question
 ## Focus areas
 
 - human-in-the-loop review
-- AI-supported content workflows
+- risk classification
+- AI content approval
 - prompt review
-- image generation review
-- UX and brand quality checks
-- decision documentation
-- risk escalation
-- governance for regulated communication environments
+- AI image governance
+- cybersecurity awareness checklists
+- decision logs
+- escalation paths
+- “what must not be automated?” matrices
 
 ## What this repository may contain
 
