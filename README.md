@@ -1,8 +1,8 @@
-# UX AI Governance Templates
+# AI Governance Risk Toolkit
 
-Templates, checklists and practical tools for making AI-supported workflows usable, reviewable and governable.
+A practical toolkit for making AI-supported work reviewable, accountable and risk-aware.
 
-This repository focuses on the operational side of AI governance: not abstract principles, but reusable structures that help teams work with AI safely and effectively.
+This repository documents workflows, checklists, decision logs and review patterns for teams that need to use AI without losing human judgment, quality control, privacy awareness or organizational trust.
 
 ## Core idea
 
@@ -10,17 +10,18 @@ AI governance only works when people can actually use it.
 
 Policies are important, but teams also need practical templates, review questions, escalation paths, quality checks and documentation habits that fit into real workflows.
 
-## Focus areas
+## Toolkit areas
 
-- human-in-the-loop review
-- risk classification
-- AI content approval
-- prompt review
-- AI image governance
-- cybersecurity awareness checklists
+- human-in-the-loop workflows
+- AI content review
+- AI image approval
+- prompt risk checks
 - decision logs
+- accountability models
+- cybersecurity-aware checklists
+- privacy and logging notes
 - escalation paths
-- “what must not be automated?” matrices
+- quality gates
 
 ## What this repository may contain
 
@@ -56,6 +57,12 @@ Policies are important, but teams also need practical templates, review question
 Early-stage template and documentation repository.
 
 ## Role in the portfolio
+
+## Role in the portfolio
+
+This is the trust and accountability repository.
+
+It translates responsible AI from principle into usable workflow elements: human-in-the-loop reviews, risk checks, escalation paths, decision logs, prompt reviews, AI image approval and cybersecurity-aware checklists.
 
 This repository is part of a four-repo portfolio system:
 
