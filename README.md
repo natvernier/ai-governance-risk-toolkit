@@ -4,6 +4,20 @@ A practical toolkit for making AI-supported work reviewable, accountable and ris
 
 This repository documents workflows, checklists, decision logs, review patterns and governance questions for teams that need to use AI without losing human judgment, quality control, privacy awareness, security discipline or organizational trust.
 
+## What is in the repository today
+
+```txt
+ai-governance-risk-toolkit/
+├── README.md
+├── LICENSE
+└── 05-decision-logs-and-accountability/
+    ├── README.md
+    ├── decision-log-template.md
+    └── example-fictional-decision-log.md
+```
+
+Start with the [decision log template](05-decision-logs-and-accountability/decision-log-template.md) and the [filled, fictional example](05-decision-logs-and-accountability/example-fictional-decision-log.md).
+
 ## Core idea
 
 AI governance only works when people can actually use it.
@@ -203,7 +217,7 @@ This repository is guided by questions such as:
 * output governance
 * reviewable AI-supported workflows
 
-## What this repository may contain
+## Planned content
 
 * review checklists
 * risk matrices
@@ -223,7 +237,9 @@ This repository is guided by questions such as:
 
 All examples and applied scenarios in this repository are abstracted, generalized or fictionalized. They are designed to show transferable patterns, not to disclose confidential employer, client, team, stakeholder or internal process information.
 
-## Repository structure
+## Planned structure
+
+The tree below is the target structure. Only the parts listed under *What is in the repository today* exist so far.
 
 ```txt
 ai-governance-risk-toolkit/
@@ -347,7 +363,9 @@ ai-governance-risk-toolkit/
     └── backlog.md
 ```
 
-## Key modules
+## Planned modules
+
+Available today: `05-decision-logs-and-accountability/` (decision log template and example). All other modules below are planned.
 
 ### `00-governance-system/`
 
@@ -467,6 +485,14 @@ Assess
 
 ## Current status
 
-Early-stage toolkit and documentation repository.
+Early-stage.
 
-The current focus is building reusable governance structures, review templates, decision logs and risk-aware workflow patterns for AI-supported work.
+Available: the first part of `05-decision-logs-and-accountability/`, with a decision log template for AI use cases and one filled example with invented data.
+
+The other modules in this README are planned.
+
+Last updated: November 2026.
+
+## License
+
+Texts, frameworks, templates and examples: [CC BY 4.0](LICENSE). Free to use and adapt, also commercially, with credit.
